@@ -30,4 +30,7 @@ e. Comment on other blogger’s approved blog post
 #H2 Database web interface
 Go to the web browser and visit http://localhost:8080/h2-console
 
+#Some sample user and query is saved on the import-h2.sql file to give a graphical view of the blog.
+User - batman, Password - password etc.
+
 -----------------------------------------------------------
